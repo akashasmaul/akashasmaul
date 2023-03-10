@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Technologies, Object Oriented Programming, Artificial Intelligence, Machine Learning**
+- 🌱 I’m currently learning **Blockchain Technology and Image Processing**
 
 - 💬 Ask me about **whatever you want**
 
 - 📫 How to reach me **xakshhh@gmail.com**
 
-- ⚡ Fun fact **I am a part-time skill developer and a full time gamer.**
+- ⚡ Fun fact **I am a part-time skill developer and a gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
