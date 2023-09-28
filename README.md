@@ -13,7 +13,7 @@
 
 - 🚀 I’m always open to collaboration on any of my open-source projects, so don’t hesitate to reach out. Let’s connect and explore opportunities to innovate and create together!
   
-- 📫 Currently, I'm Leaning Dot Net Framework
+- 📫 Currently, I'm Learning Dot Net Framework
   
 - 💬 You can reach me at xakshhh@gmail.com. Ask me about whatever you want! 
 
