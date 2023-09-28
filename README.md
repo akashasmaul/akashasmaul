@@ -1,21 +1,21 @@
 <h1 align="center">Hello There! 👋, I'm Akash</h1>
-<h3 align="center">A passionate multi developer and a computer science engineer from Bangladesh</h3>
+<h3 align="center">A passionate multi-developer and a computer science engineer from Bangladesh</h3>
 
-- 💫 I love both functional and object oriented programming.
+- 💫 I love both functional and object-oriented programming.
 
-- 🧭 I strongly believe in testing, code quality and coding standards.
+- 🧭 I strongly believe in testing, maintaining high code quality, and adhering to coding standards.
 
-- 👯 I’m looking to collaborate on any of my open source packages, feel free to reach out.
+- 👯 I’m looking to collaborate on any of my open-source packages; feel free to reach out.
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 Currently, I’m focusing on software quality assurance, ensuring that software performs at its best. 
 
-- 🌱 I’m currently learning **Blockchain Technology and Image Processing**
+- 🌱 Additionally, I’m mastering advanced web development, pushing the boundaries of my knowledge and skills. 
 
-- 💬 Ask me about **whatever you want**
-
-- 📫 How to reach me **xakshhh@gmail.com**
-
-- ⚡ Fun fact **I am a part-time skill developer and a gamer.**
+- 🚀 I’m always open to collaboration on any of my open-source projects, so don’t hesitate to reach out. Let’s connect and explore opportunities to innovate and create together!
+  
+- 📫 Currently, I'm Leaning Dot Net Framework
+  
+- 💬 You can reach me at xakshhh@gmail.com. Ask me about whatever you want! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
