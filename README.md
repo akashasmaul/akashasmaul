@@ -1,13 +1,13 @@
 <h1 align="center">Hello There! 👋, I'm Akash</h1>
-<h3 align="center">A Computer Science Engineer and AI/ML Researcher from Bangladesh</h3>
+<h3 align="center">A Computer Science Engineer and Researcher from Bangladesh</h3>
 
-* 🎓 I hold a B.Sc. in Computer Science and Engineering (Software Engineering) from AIUB, and I’m currently pursuing my MSc in Computer Science with a growing focus on intelligent systems and Machine Learning.
+* 🎓 I hold a B.Sc. in Computer Science and Engineering (Software Engineering) from AIUB, and I’m currently pursuing my MSc in Computer Science with a growing focus on intelligent systems and emerging technologies.
 
-* 🔬 Currently, I’m actively exploring and researching in the fields of **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and AI-driven systems**.
+* 🔬 Currently, I’m exploring and conducting research in **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and related areas**.
 
-* 🧠 I enjoy working with AI/ML tools, experimenting with different architectures and approaches, and turning research ideas into practical implementations.
+* 🧠 I enjoy experimenting with new tools, architectures, and approaches, and turning research ideas into practical implementations.
 
-* 📚 I’m particularly interested in **research-oriented work, advanced AI/ML applications, and pursuing higher studies** where I can continue developing my research experience and contribute to the field.
+* 📚 I’m particularly interested in **research-oriented work and higher studies**, with the goal of continuously developing my technical and research experience.
 
 * 💫 I love both functional and object-oriented programming.
 
@@ -15,17 +15,17 @@
 
 * 🧪 My professional background is in **Software Quality Assurance**, where I work with manual testing, automation, API testing, performance testing, security testing, and database validation.
 
-* 🔭 Currently, I’m continuing my work in **software engineering** while gradually expanding my focus toward AI/ML research and software engineering.
+* 🔭 Currently, I’m continuing my work in **software engineering** while expanding my knowledge through research, experimentation, and academic work.
 
-* 🌱 I’m also continuously improving my knowledge of **software development, advanced web technologies, .NET, Python, and AI/ML frameworks and tools**.
+* 🌱 I’m continuously improving my skills in **software development, advanced web technologies, .NET, Python, and modern computing tools**.
 
-* 🧩 I enjoy working across different areas of computer science, combining my background in software engineering and QA with my growing experience in AI and ML.
+* 🧩 I enjoy working across different areas of computer science, combining my background in software engineering and QA with my growing research experience.
 
-* 👯 I’m looking to collaborate on **AI/ML research, open-source projects, software engineering, and innovative technical projects**. Feel free to reach out.
+* 👯 I’m looking to collaborate on **research, open-source projects, software engineering, and innovative technical projects**. Feel free to reach out.
 
 * 🚀 I’m always open to collaboration, research discussions, and opportunities to learn, build, and contribute. Let’s connect and explore opportunities to innovate and create together!
 
-* 📫 Currently, I’m learning and working with the **.NET Framework**, while also expanding my knowledge in AI/ML and research-oriented technologies.
+* 📫 Currently, I’m learning and working with the **.NET Framework**, while continuing to expand my knowledge through academic and research-oriented projects.
 
 * 💬 You can reach me at [xakshhh@gmail.com](mailto:xakshhh@gmail.com). Ask me about whatever you want!
 
@@ -38,10 +38,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
 <br>
-
-## 📊 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashasmaul&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akashasmaul&layout=compact&theme=dark)
